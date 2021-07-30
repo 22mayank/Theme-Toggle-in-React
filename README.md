@@ -1,5 +1,10 @@
 # Theme-Toggle-in-React
 A simple theme toggle template made using React, HTML, CSS / Scss
+
+# Deployed Site
+[https://toggle-theme-react.netlify.app/](https://toggle-theme-react.netlify.app/)
+
+
 # Usage
 1. Clone the repository
 ```shell
